@@ -12,8 +12,8 @@ Project ini dibuat untuk menyajikan informasi sejarah dengan tampilan yang menar
 
 ## 🛠️ Teknologi yang Digunakan  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP / Node.js (sesuaikan)  
-- **Database**: MySQL / SQLite (sesuaikan)  
+- **Backend**: (sesuaikan)  
+- **Database**: MySQL 
 - **Hosting**: GitHub Pages / Hosting lain  
 
 ## 📂 Struktur Folder  
@@ -22,6 +22,5 @@ Project ini dibuat untuk menyajikan informasi sejarah dengan tampilan yang menar
  ┣ 📂 assets     # gambar, icon, dll
  ┣ 📂 css        # file CSS
  ┣ 📂 js         # file JavaScript
- ┣ 📂 pages      # halaman artikel sejarah
  ┣ 📜 index.html # halaman utama
  ┗ 📜 README.md  # dokumentasi
